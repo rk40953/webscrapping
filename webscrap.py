@@ -24,7 +24,9 @@ b=json.dumps(infor2)
 print(a)
 
 print(b)
-
+def get_captcha()
+  pass
+  
 
 login_Data={'javax.faces.partial.ajax': 'true',
 'javax.faces.source': 'form_rcdl:tf_dlNO',
